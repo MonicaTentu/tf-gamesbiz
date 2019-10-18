@@ -14,7 +14,7 @@ setup(
         'scipy',
         'pandas',
         'scikit-learn',
-        'tensorflow==1.13.0rc0',
+        'tensorflow==1.14.0',
         'flask',
         'gunicorn',
         'gevent'
